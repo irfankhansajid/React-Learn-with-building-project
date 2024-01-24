@@ -8,17 +8,21 @@ In this repository I want to add all of the react project during learn react js.
    - Technologies Used: React js, React hook, Tailwind CSS.
 
 
-2. **Project 2: Password Generator**
-   - Description: In this project
+2. **Project 3: Currency Converter**
+   - Description: Currency converter using API to convert currency.
+   - Technologies used: React Js { useState, useEffect, useId }, Axios for making HTTP requests to the API,
+
+   
+   ```javascript
+   **API LINK**
+   let url = `https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/${currency}.json`
 
 
-   - Technologies Used: List technologies, frameworks, or languages used.
-   - How to Run: Instructions on how to run or use the project.
+3. **Project 2: Password Generator**
+   - Description: In this project I create Password Generator. On that password generator you can use min(6) to max(100). Also you have option to **Length, Character, Number** add or not. Also there you can **copy** the password
 
-3. **Project 3: Project Name**
-   - Description: Brief description of the project.
-   - Technologies Used: List technologies, frameworks, or languages used.
-   - How to Run: Instructions on how to run or use the project.
+   - Technologies Used: React { useCallback, useState, useEffect, useRef }
+  
 
 
 
