@@ -22,6 +22,10 @@ In this repository I want to add all of the react project during learn react js.
    - Description: In this project I create Password Generator. On that password generator you can use min(6) to max(100). Also you have option to **Length, Character, Number** add or not. Also there you can **copy** the password
 
    - Technologies Used: React { useCallback, useState, useEffect, useRef }
+3. **Project 2: Password Generator**
+   - Description: Create a website using **React Router** and learn about **2 way routing** , data tranfer by url also use **Github** api to fetch name, followers, img. In this website have 4 Section Home, About, Contact and Github. Futhermore use loader to optimize github section
+
+   - Technologies Used: React-Router { useParams, useState, useEffect } and Tailwind CSS
   
 
 
